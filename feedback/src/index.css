@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Montserrat:wght@338&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
